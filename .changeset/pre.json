@@ -137,6 +137,7 @@
     "voice-agent": "1.0.0"
   },
   "changesets": [
+    "chubby-llamas-smash",
     "clear-seals-tease",
     "cool-papers-check",
     "five-hands-bet",
