@@ -1,5 +1,11 @@
 # @mastra/core
 
+## 0.4.3-alpha.1
+
+### Patch Changes
+
+- ed55f1d: Fixes to watch payload in workloads with nested branching
+
 ## 0.4.3-alpha.0
 
 ### Patch Changes
